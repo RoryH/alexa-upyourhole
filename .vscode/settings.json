@@ -1,0 +1,4 @@
+{
+  "tslint.jsEnable": false,
+  "tslint.exclude": "*.js,*.jsx"
+}
