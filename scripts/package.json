@@ -1,0 +1,16 @@
+{
+  "name": "alexa-upyourhole-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"build-slot-type-values": "curl \"https://roryhaddon.com/api/dublin/bus/routes\" > busroutes.json; node index.js"
+  },
+  "author": "Rory Haddon",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "number-to-words": "^1.2.4"
+  }
+}

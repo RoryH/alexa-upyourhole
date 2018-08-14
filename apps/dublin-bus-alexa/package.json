@@ -1,0 +1,11 @@
+{
+  "name": "dublin-bus-alexa",
+  "version": "1.0.0",
+  "description": "Dublin Bus real-time information for Amazon Alexa",
+  "main": "dublin-bus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rory Haddon",
+  "license": "MIT"
+}
